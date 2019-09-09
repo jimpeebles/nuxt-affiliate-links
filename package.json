@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-affiliate-links",
+  "version": "1.0.0",
+  "description": "Extract and pass through URL query params",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimpeebles/nuxt-affiliate-links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimpeebles/nuxt-affiliate-links/issues"
+  },
+  "homepage": "https://github.com/jimpeebles/nuxt-affiliate-links#readme"
+}
